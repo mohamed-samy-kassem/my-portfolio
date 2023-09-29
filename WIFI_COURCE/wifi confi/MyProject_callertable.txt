@@ -1,0 +1,9 @@
+main
+	__CC2DW
+	UART1_Init
+	UART1_write_text_const
+		UART1_Write
+	new_line
+		UART1_Write
+interrupt
+	UART1_Read
