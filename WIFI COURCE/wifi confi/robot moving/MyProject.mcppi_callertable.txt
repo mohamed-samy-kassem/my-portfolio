@@ -1,0 +1,22 @@
+main
+	__CC2DW
+	moving_robot
+		excute_y
+			moving_exactly_on_track
+			roboot_off
+		change_orintation
+			roboot_left_180
+			roboot_off
+			step_foward
+			roboot_left_90
+			roboot_right_90
+		excute_x
+			moving_exactly_on_track
+			roboot_off
+		get_sensor_value
+		excute_y_negative
+			moving_exactly_on_track
+			roboot_off
+		excute_x_negative
+			moving_exactly_on_track
+			roboot_off

@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo8 -N"C:\Users\orginial pc\Desktop\WIFI COURCE\get string from text\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\orginial pc\Desktop\WIFI COURCE\get string from text\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\orginial pc\Desktop\WIFI COURCE\get string from text\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Button.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_1024.mcl" "__Lib_SPI_c345.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_CFFat16.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+warning: 47	1503	Result is not defined in function: 'get_string'	MyProject.c
+diagnostics: 47	123	Compiled Successfully	MyProject.c
+hint: 39	1164	Variable 'p2' has been eliminated by optimizer	MyProject.c
+hint: 40	1164	Variable 'lenght' has been eliminated by optimizer	MyProject.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 129 (3%)  Free RAM (bytes): 3818 (97%)	Used RAM (bytes): 129 (3%)  Free RAM (bytes): 3818 (97%)
+hint: 0	1144	Used ROM (bytes): 1319 (2%)  Free ROM (bytes): 64217 (98%)	Used ROM (bytes): 1319 (2%)  Free ROM (bytes): 64217 (98%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 140 ms	 
+diagnostics: 0	103	Finished successfully: 29 Sep 2020, 19:41:10	MyProject.mcppi
