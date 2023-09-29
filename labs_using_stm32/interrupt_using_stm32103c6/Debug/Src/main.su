@@ -1,0 +1,4 @@
+main.c:47:5:main	16	static
+main.c:63:6:EXTI0_IRQHandler	4	static
+main.c:69:6:init_INTERRUPT	4	static
+main.c:77:6:pin_init	4	static

@@ -1,0 +1,4 @@
+main
+	setup_pin
+	interrupt_init
+interrupt
